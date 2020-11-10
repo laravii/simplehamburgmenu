@@ -1,3 +1,12 @@
+# Menu Hamburguinho
+
+Esse projeto consiste em um menu hamburguinho simples, que abre e fecha conforme é clicado. 
+Foi utilizado ReactJS, styled-components e styled-icons em sua construção.
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
